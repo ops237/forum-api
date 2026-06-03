@@ -167,3 +167,12 @@ This project utilizes `vitest` for both Unit and Integration testing.
 ## 📝 License
 
 This project is licensed under the ISC License.
+
+---
+## 👨‍💻 Penulis
+
+**Irfan Maulana Saputra**
+*Fullstack Developer | Backend Engineer*
+
+- GitHub: [github.com/ops237](https://github.com/ops237)
+- Web: [Wabotku.site](https://wabotku.site)
