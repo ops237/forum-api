@@ -169,7 +169,7 @@ This project utilizes `vitest` for both Unit and Integration testing.
 This project is licensed under the ISC License.
 
 ---
-## 👨‍💻 Penulis
+## 👨‍💻 Author
 
 **Irfan Maulana Saputra**
 *Fullstack Developer | Backend Engineer*
